@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-shaqayq%20Darwazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaqayq-darwazi/)](https://www.linkedin.com/in/shaqayq-darwazi-0a7487233/)
 [![Twitter Badge](https://img.shields.io/badge/-@Shaqayq_Darwazi_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DarwaziShaqayq)](https://twitter.com/DarwaziShaqayq)
-[![Angelist Badge](https://img.shields.io/badge/-Shaqayq-0A0A0A?style=flat-square&labelColor=black&logo=AngelList.to&link=https://angel.co/u/shaqayq-darwazi)](https://angel.co/u/shaqayq-darwazi)
+[![AngelList Badge](https://img.shields.io/badge/-Shaqayq-0A0A0A?style=flat-square&labelColor=black&logo=AngelList.to&link=https://angel.co/u/shaqayq-darwazi)](https://angel.co/u/shaqayq-darwazi)
 
 
 ```
