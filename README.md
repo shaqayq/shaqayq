@@ -4,7 +4,7 @@
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-shaqayq%20Darwazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaqayq-darwazi/)](https://www.linkedin.com/in/shaqayq-darwazi-0a7487233/)
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/miss_elliev)
+[![Twitter Badge](https://img.shields.io/badge/-@Shaqayq_Darwazi_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DarwaziShaqayq)](https://twitter.com/DarwaziShaqayq)
 [![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)
 
 
