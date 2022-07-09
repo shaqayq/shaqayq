@@ -1,73 +1,45 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+<h2> Hi, I'm Shaqayq Darwazi! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-> Description the project.
+[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/ellievillalejos/)
+[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/miss_elliev)
+[![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)
 
+### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif)" width="50"> A little more about me...  
 
-## Built With
+```javascript
+const eliVillalejos = {
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  pronouns: ["she", "her"],
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
+  Tailwind CSS, Material UI],
+  askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
+  challenge: "I am honing my React skills and picking up TypeScript",
+  funFacts: ['I have 3+ years of remote work experience with devs 
+  from all over the world', 
+  'my tiny chihuahua dog is ready to woof at the right offer']
+}
+```
+### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
-- Major languages
-- Frameworks
-- Technologies used
+<!--START_SECTION:waka-->
 
-## Live Demo (if available)
+```text
+JavaScript   6 hrs 43 mins   ████████████████████████░   96.60 %
+SCSS         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+```
 
-[Live Demo Link](https://livedemo.com)
+<!--END_SECTION:waka-->
 
+<p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
 
-## Getting Started
+<!-- BLOG-POST-LIST:START -->
+- [Upgrade your React game with TypeScript: Routes](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-routing-4c59)
+- [Upgrade your React game with TypeScript: More on Types](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-more-on-types-5o8)
+- [Show off with Github&#39;s README](https://dev.to/misselliev/show-off-with-github-s-readme-40eh)
+<!-- BLOG-POST-LIST:END -->
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+<p>You can check out my portfolio <a href="https://elizabeth-villalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
