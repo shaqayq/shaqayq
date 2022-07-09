@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Shaqayq Darwazi! </h2>
+<h2> Hi, I'm Shaqayq Darwazi! :wave:</h2>
 <img src="https://github.com/shaqayq/shaqayq/blob/master/I'm%20Shaqayq.jpg" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica" width="900" height="300">
 
 
