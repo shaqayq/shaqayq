@@ -1,4 +1,4 @@
-# Hi there 👋, Shaqayq Darwazi. 
+# Hi there 👋, I'm  Shaqayq Darwazi. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/shaqayq?tab=followers)<br/>
 
 <!--
