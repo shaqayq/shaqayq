@@ -10,8 +10,8 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I have studied Computer Science and Engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas, and spreading knowledge and positivity.
-- 🔥 **I like to Code, Design, Innovate and Experiment**
-- 👯  I’m looking forward to collaborating on open source projects.
+- 🔥 **I like to Code, Design, Innovate, and Experiment**
+- 👯  I’m looking forward to collaborating on open-source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - 🥳 Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 
@@ -33,6 +33,9 @@ I have studied Computer Science and Engineering. I am an enthusiastic and social
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" title="Postgresql" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" title="Ruby on Rails" />
+
+  <img height="40" src="https://nodejs.org/static/images/logo.svg" alt="nodejs" title="nodejs" />
+ 
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Ruby on Rails" title="Laravel" />
    <img height="50" src="https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg" title="linux" />
 </div>
