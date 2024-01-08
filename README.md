@@ -38,6 +38,10 @@ I have studied Computer Science and Engineering. I am an enthusiastic and social
  
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Ruby on Rails" title="Laravel" />
    <img height="50" src="https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg" title="linux" />
+    <img height="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="gitlab" />
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" title="python" />
+            <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" title="DJ" />
+	       <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" title="rabbitMQ" />
 </div>
 </p>
 
